@@ -1,107 +1,44 @@
 ---
-# Change these five lines as soon as you copy this starter.
-title: Your Essay Title
-author: Your Name
-category: Starter Essay                  # change to a category from the student guide
-header-image: sample-archive-photo.jpg   # the filename of your own image
-header-caption: Replace with where your header image came from. Plain text only, no links.
+## Lobo Louie
+Lobo Louie, the costumed wolf mascot of the University of New Mexico (UNM), is more than a familiar presence at football and basketball games. He represents a tradition that connects the university’s athletic identity to its history, student culture, and community life. Although Louie himself did not appear until the 1960s, the story behind him began decades earlier, when UNM adopted the wolf as its symbol.
+The origins of the Lobo, 1920
+The history of Lobo Louie begins on September 22, 1920, when sophomore George S. Bryan, editor of the student newspaper and student manager of the football team, proposed “Lobo” as the university’s athletic nickname at a Student Council meeting. The Spanish word for wolf, lobo was an appealing choice because it suggested strength, cunning, and leadership.
+The proposal received enthusiastic support. On October 1, 1920, the student newspaper, then known as The U.N.M. Weekly, celebrated the new identity with the declaration that the lobo was “respected for his cunning, feared for his prowess, and is the leader of the pack.” The publication subsequently became known as The Weekly Lobo, reflecting the nickname’s rapid integration into campus life.
+The University of New Mexico
 
-# Fill these in later, once your research is under way.
-card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
-start:                                   # the year your story begins, shown on the map
+UNM soon acquired a live wolf. Bruno Dieckmann, a member of the class of 1902 and treasurer of the Athletic Association, reportedly obtained the animal at his own expense. University accounts also identify government trapper Jim Young as the person who caught a wolf pup on the Floyd Lee Ranch near Mount Taylor in western New Mexico. The pup was cared for by cheerleaders and appeared at football games, sometimes wearing a harness.
+The experiment did not last. In the late 1920s, a child reportedly teased the wolf and was bitten during a game. University officials consequently had the animal put down. The incident effectively ended the use of live wolves as regular athletic mascots for many decades.
+Official Athletics Website
 
-# Leave this line as it is.
-layout: essay
----
+Louie arrives, and Lucy joins him
+After several decades without a regular live animal mascot, UNM introduced Lobo Louie in the early 1960s. The costumed character offered a safer, more practical way to bring the wolf symbol to life. Rather than depending on a live animal, the university could send a human performer into the stands and onto the sidelines to energize spectators and represent the school at public events.
+The next major development came in the early 1980s, when UNM introduced Lobo Lucy, a female wolf mascot who appeared alongside Louie. The pairing expanded the mascot tradition into a recognizable duo, allowing the characters to interact with fans and participate in campus activities. According to UNM’s official athletics history, both mascots became members of the university’s cheerleading squad. The university’s published histories do not establish an exact debut date for either character, so the 1960s and early 1980s are the most reliable dates to use.
+Official Athletics Website
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
+From sporting events to campus life
+Over time, Louie became part of a broader culture of Lobo pride. His role was not limited to cheering at athletic competitions. The mascots also appeared at university celebrations, alumni gatherings, and events designed to welcome students and connect UNM with Albuquerque.
+A particularly well-documented example occurred on February 28, 2014, when UNM celebrated its 125th anniversary. The university’s Alumni Relations Office hosted a reception at Hodgin Hall, and Lobo Louie and Lucy were scheduled to attend. The occasion demonstrated how the mascots had become ambassadors for the institution, representing its history to alumni and community members as well as to sports fans.
+UNM UCAM Newsroom
 
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
+Their popularity also extended into campus entertainment and recognition programs. In April 2012, the university renamed its Student Union Building games room Louie's Lounge. Louie and Lucy attended the reopening celebration, linking the mascot identity to everyday student life outside the stadium. Meanwhile, the annual Louie Awards, documented by UNM in 2011 and 2015, used golden Lobo Louie statuettes to recognize students, faculty, and staff for their contributions to the university. These awards demonstrate how the mascot's name had become a recognizable symbol of service and campus community.
+UNM UCAM Newsroom
 
-## Main Story
+In 2019, UNM College of Education professor Marjori Krebs and her daughter, Taylor Potter, published Lobo Louie and Lobo Lucy Visit The University of New Mexico. The children's book introduced young readers to campus landmarks and traditions through the mascots, extending their role into educational storytelling and family engagement.
+UNM UCAM Newsroom
+A continuing university tradition
+By the university's centennial celebration of the Lobo nickname in 2020, Louie had become part of a tradition nearly a century in the making. The university marked the anniversary with a Lobo Day celebration, recognizing the symbol first proposed by George S. Bryan in 1920. Today, UNM Athletics continues to identify Louie and Lucy as central members of its Spirit Program, which supports men's and women's NCAA sports and participates in community outreach.
+UNM UCAM Newsroom
 
-Use this section to tell the most important part of the history. Keep paragraphs short enough for online reading. A good paragraph usually develops one idea, source, moment, or change over time.
+The history of Lobo Louie illustrates how a university symbol can evolve. What began as a nickname inspired by a wolf became a live mascot, then a costumed character, and ultimately an ambassador for an entire university community. Louie's exact debut date and the identities of the earliest performers remain unclear in the published sources consulted here. Nevertheless, the official record shows that since the 1960s, Louie has helped turn UNM's wolf identity into a lasting tradition of school spirit, belonging, and public engagement.
+Sources and research notes
+The account above relies primarily on university-published material:
+University of New Mexico, “UNM Traditions – The Lobo Mascot.” The university's historical overview of the original live wolf and the introduction of Louie and Lucy. Read the history .
+New Mexico Lobos Athletics, “Mascot.” The official athletics account of the mascot's origins and development. Read the athletics history .
+University of New Mexico Digital Repository, “The Lobo Mascot” (1990). An institutional history essay documenting the mascot tradition. Read the catalog record .
+UNM News, “UNM celebrates 125th birthday” (February 24, 2014). Contemporary reporting on the anniversary and the mascots' scheduled appearance. Read the article .
+UNM News, “UNM professor publishes children's book about UNM mascots” (November 30, 2019). Reporting on Marjori Krebs and Taylor Potter's book. Read the article .
+Source limitation: The available institutional histories provide strong support for the major dates and developments, but they do not supply a complete chronology of individual mascot performers, the exact date of Louie's first appearance, or a detailed year-by-year account. Those details would require further archival research, particularly in The Daily Lobo, university yearbooks, athletics photographs, and UNM Archives records.
 
-Use specific evidence from the archive. Name dates, people, places, decisions, conflicts, renovations, controversies, or missing records when they matter. The goal is not just to list facts. The goal is to explain what those facts reveal about UNM and its history.
 
-<!-- Full-width figure. This is the default for any landscape photo wider than about 700px.
-     image-path is just the filename: upload your images into this essay's folder,
-     next to index.md. -->
-
-{% include images/figure.html
-  class="img-center"
-  width="100%"
-  caption="Replace this caption. Say why the image matters, not just what it shows, then cite where you found it: [Center for Southwest Research](https://econtent.unm.edu/), collection and box number."
-  image-path="sample-archive-photo.jpg"
-%}
-
-Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
-
-## What Changed
-
-Use this section to explain change over time. What did your topic used to be? How did people use it, describe it, fund it, argue about it, rename it, neglect it, preserve it, or forget it?
-
-This is a good place to connect your specific topic to a larger campus pattern: enrollment growth, architecture, student life, race, gender, labor, protest, public memory, administration, technology, or access.
-
-<!-- Carousel: use when you have three or more images that belong together but do not
-     each need their own paragraph. Images are split on commas, captions on the | character.
-     Carousel captions are plain text: Markdown links will NOT work here, so write out
-     the collection name and box number instead of linking. -->
-
-{% assign images =
-"sample-archive-photo.jpg,
-sample-second-photo.jpg,
-sample-primary-source.jpg" | split: ','
-%}
-
-{% assign headers =
-"Replace with a short slide title,
-Replace with a short slide title,
-Replace with a short slide title" | split: ','
-%}
-
-{% assign captions =
-"Replace this caption. Explain what this slide shows and why it matters. Center for Southwest Research, collection name, box number.|
-Replace this caption. Every slide needs one. Center for Southwest Research, collection name, box number.|
-Replace this caption. Plain text only in carousels, so spell out the source instead of linking. Center for Southwest Research, collection name, box number." | split: '|'
-%}
-
-{% include images/carousel.html
-  images=images
-  headers=headers
-  captions=captions
-%}
-
-Delete the carousel if you do not have a set of images that works this way. Three related photographs, a series of floor plans, or a run of newspaper clippings are all good candidates. Two images that need to be compared directly are usually better as a pair than as a carousel.
-
-## Evidence
-
-Use this section to show readers a document, not just a photograph. Scanned letters, meeting minutes, ledgers, clippings, and blueprints all reward close looking, and they prove you spent time in the boxes.
-
-<!-- Portrait documents are the exception to the full-width rule. A tall scan at 100%
-     is over 1200px tall and swallows the screen, so center it and leave it near 55%.
-     Keep it centered, not floated. -->
-
-{% include images/figure.html
-  class="img-center"
-  width="55%"
-  caption="Replace this caption. Tell readers what to notice in the document and why it changes how they should understand your topic. Cite the collection, box, and folder."
-  image-path="sample-primary-source.jpg"
-%}
-
-Explain what the document says, what it does not say, and how it fits the story. A source you actually read and explain is worth more than three you only mention.
-
-## Why This History Matters
-
-End by returning to the present. How should readers see this campus place, person, organization, object, or event differently after reading your essay? Point to continued use, memory, loss, gaps in the archive, or campus change rather than announcing a conclusion.
-
-{% capture bibliography %}
-- Replace this with your first source. Include enough detail that someone else could find it: collection name, box, and folder for archival material.
-- Replace this with your second source.
-- Replace this with your third source.
-{% endcapture %}
-
-{% include typography/bibliography.html
-  title="Bibliography"
   content=bibliography
 %}
